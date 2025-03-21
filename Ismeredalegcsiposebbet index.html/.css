@@ -1,0 +1,11 @@
+h1 {
+    background-image: url(https://files.slack.com/files-pri/TD5V5QCQK-F08JL83R8LU/sok.jpg);
+}
+
+body {
+    background-image: url(https://files.slack.com/files-pri/TD5V5QCQK-F08JL83R8LU/sok.jpg);
+    background-size: cover;
+    background-repeat: no repeat;
+    height: 30px;
+    margin: 0;
+}
