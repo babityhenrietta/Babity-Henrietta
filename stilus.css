@@ -1,0 +1,120 @@
+ h2  .third-width { width: 33.33%;
+    margin-left: 33.33%;
+    text-align: left;
+}
+    
+
+
+.header {
+    background-image:url(/Imageschili/hatterkep);
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30vh;margin: 0;
+}
+
+ul class {
+    color: black;
+    
+}
+
+body {background-image: url('/Imageschili/hatterkep');
+
+}
+
+
+
+p {text-align: center;
+
+}
+h2 { width: 33.33%;
+    margin-left: 33.33%;
+    text-align: left;
+
+}
+
+
+
+h3 fajtai{left: auto;
+
+}
+
+ul {list-style-type: none;
+    list-style-image: url(Frontend/Imageschili/paprikafelsorolas);
+}
+
+li a{text-decoration: none;
+
+}
+
+ ul li {
+    background-color: white;
+}
+
+li {width: 150px;
+    border: 2px rgb(35, 145, 128) solid;
+    padding: 25px;
+    text-align:left;
+    
+    }
+
+ul {
+        color: black;
+    }
+
+    table 
+
+h3 {
+    text-align: right;
+}
+ body,h3, p {background-position:left ;}
+
+
+
+body {
+    background-color: bisque;
+
+}
+
+body {color: brown !important;
+}
+
+table {
+    
+    width: 400px;
+    border-color: gray;
+    margin: 0px;
+    font-size:medium;
+    text-align:left;
+    padding: 30px;
+    border-collapse: collapse;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 20;
+
+}
+
+td:first-child {
+    text-align: left;
+
+}
+
+td:nth-last-child(2), th:nth-last-child(2){
+    text-align: left;
+
+}
+
+
+
+
+
+
+
+
+
+    
+    
+
+
